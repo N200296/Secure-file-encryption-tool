@@ -1,0 +1,7 @@
+3. Decentralized Workflow
+
+Everything (votes, candidates, and voter eligibility) is recorded on the Ethereum blockchain.
+
+The frontend uses Web3.js or Ethers.js to connect your wallet (like MetaMask) to the contract.
+
+Every vote is a transaction and costs a small amount of ETH gas fees.
